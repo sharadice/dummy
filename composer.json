@@ -1,0 +1,7 @@
+{
+	"name": "sharadice/dummy",
+	"description": "Sharadice Package Dummy",
+	"require": {
+		"php": ">=7.4"
+	}
+}
