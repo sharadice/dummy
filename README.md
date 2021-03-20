@@ -1,4 +1,4 @@
-# Why we added a default, publicly available "sharadice/dummy" package to this respository?
+# Why we added a default, publicly available "sharadice/dummy" package?
 
 Alex Birsan described a serious security vulnerability that affects package managers for most modern languages, 
 including Composer. In short, the issue is that the package manager usually checks the default publicly 
